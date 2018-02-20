@@ -1,4 +1,4 @@
---[[ -- exclude stuff that is already in trm_farming from trmp_minetest_game
+--[[ -- exclude stuff that is already in trm_farming (from trmp_minetest_game)
 treasurer.register_treasure("farming:hoe_wood",0.01,2,nil,nil,"tool")
 treasurer.register_treasure("farming:hoe_stone",0.030,2.2,nil,nil,"tool")
 treasurer.register_treasure("farming:hoe_steel",0.05,2.4,nil,nil,"tool")
