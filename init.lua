@@ -33,8 +33,10 @@ treasurer.register_treasure("farming:corn",0.006,2,{1,4},nil,"seed")
 -- (commented for schools) treasurer.register_treasure("farming:seed_hemp",0.006,2,{1,4},nil,"seed")
 
 
--- plants that only grow on trellis or beanpole:
+-- plants that only grow on trellis:
 treasurer.register_treasure("farming:grapes",0.006,2,{1,4},nil,"seed")
+
+-- plants that only grow on beanpole:
 treasurer.register_treasure("farming:beans",0.006,2,{1,4},nil,"seed")
 
 -- plants that only grow on jungle tree trunk:
