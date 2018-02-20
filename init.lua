@@ -1,5 +1,5 @@
 
-if minetest.get_modpath("trm_farming") == nil
+if minetest.get_modpath("trm_farming") == nil then
   treasurer.register_treasure("farming:hoe_wood",0.01,2,nil,nil,"tool")
   treasurer.register_treasure("farming:hoe_stone",0.030,2.2,nil,nil,"tool")
   treasurer.register_treasure("farming:hoe_steel",0.05,2.4,nil,nil,"tool")
