@@ -30,7 +30,7 @@ treasurer.register_treasure("farming:chili_pepper",0.006,2,{1,4},nil,"seed")
 treasurer.register_treasure("farming:potato",0.006,2,{1,4},nil,"seed")
 treasurer.register_treasure("farming:coffee_beans",0.006,2,{1,4},nil,"seed")
 treasurer.register_treasure("farming:corn",0.006,2,{1,4},nil,"seed")
--- (commented for schools) treasurer.register_treasure("farming:seed_hemp",0.006,2,{1,4},nil,"seed")
+treasurer.register_treasure("farming:seed_hemp",0.006,2,{1,4},nil,"seed")
 
 
 -- plants that only grow on trellis:
